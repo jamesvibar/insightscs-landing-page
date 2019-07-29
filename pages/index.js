@@ -66,7 +66,7 @@ export default function Home() {
                     <div className="right">
                       <h3>Consignees</h3>
                       <p>
-                        Benefit from reduced documentation and compliance costs
+                        test Benefit from reduced documentation and compliance costs
                         while increasing traceability.
                       </p>
                     </div>
